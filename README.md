@@ -7,15 +7,13 @@
   **An invisible image maker  tool with  GUI interface**
 
   [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-## Minimum Specifications
-- Python 3.7 or higher
 
-#### Termux (Android)
+
+#### Linux / windows
 ```bash
-pkg update && pkg upgrade
-pkg install python git
-pip install -r requirements.txt
-```****
+pyhton 3.0
+Tkinter
+```
 
 
 
