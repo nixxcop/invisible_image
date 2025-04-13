@@ -10,6 +10,12 @@
 ## Minimum Specifications
 - Python 3.7 or higher
 
+#### Termux (Android)
+```bash
+pkg update && pkg upgrade
+pkg install python git
+pip install -r requirements.txt
+```****
 
 
 
