@@ -11,8 +11,7 @@
 #### Linux / Windows
 ```bash
 git clone https://github.com/nixxcop/invisible_image
-python 3.0
-Tkinter
+
 
 
 
