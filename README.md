@@ -8,9 +8,21 @@
 
   [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 
-#### Linux / Windows
+####  Windows
 ```bash
 git clone https://github.com/nixxcop/invisible_image
+```
+
+
+## Screenshots
+
+s1:-
+![Screenshot_2025-03-20_01_05_52](https://github.com/nixxcop/assets/blob/main/Screenshot%202025-04-13%20232548.png)
+
+
+s2:-
+![Screenshot_2025-03-20_01_07_34](https://github.com/nixxcop/assets/blob/main/Screenshot%202025-04-13%20232633.png)
+
 
 
 
