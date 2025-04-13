@@ -11,7 +11,10 @@
 
 #### Linux / windows
 ```bash
+git clone https://github.com/nixxcop/invisible_image
+
 pyhton 3.0
+
 Tkinter
 ```
 
