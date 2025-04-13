@@ -8,14 +8,11 @@
 
   [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 
-
-#### Linux / windows
+#### Linux / Windows
 ```bash
 git clone https://github.com/nixxcop/invisible_image
-pyhton 3.0
+python 3.0
 Tkinter
-```
-
 
 
 
