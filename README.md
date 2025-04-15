@@ -25,6 +25,10 @@ s2:-
 
 
 
+**this is only for fun , there is nothing extra ordinary , we ar ejust removing the pixel(pixel value ====0) and nothing ...............!!!!!**
+
+
+
 
 
   
