@@ -24,8 +24,8 @@ s2:-
 ![Screenshot_2025-03-20_01_07_34](https://github.com/nixxcop/assets/blob/main/Screenshot%202025-04-13%20232633.png)
 
 
-
-**this is only for fun , there is nothing extra ordinary , we ar ejust removing the pixel(pixel value ====0) and nothing ...............!!!!!**
+## Note++
+**this is only for fun , there is nothing extra ordinary , we are just removing the pixel(pixel value ====0) and nothing ...............!!!!!**
 
 
 
