@@ -1,4 +1,4 @@
-#give creadit if u are creating new version or using code ,,, github:- github.com/nixxcom , ig:- @o978x
+#give creadit if u are creating new version or using code ,,, github:- github.com/nixxcop , ig:- @o978x
 import subprocess
 import sys
 import platform
